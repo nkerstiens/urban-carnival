@@ -4,7 +4,7 @@ const app = express()
 console.log("hello from node");
 
 app.get('/', function (req, res) {
-    res.send('Hello World from Express')
+    res.send('<h2>Hello World from Express</h2>')
   })
 
   app.listen(3002)

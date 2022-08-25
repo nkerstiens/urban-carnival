@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "name": "urban-carnival",
+  "description": "Dr. Cumbie's - 486 - Dev Lab Mike",
+  "version": "1.0.0",
+  "main": "hello-node.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkerstiens/urban-carnival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkerstiens/urban-carnival/issues"
+  },
+  "homepage": "https://github.com/nkerstiens/urban-carnival#readme"
 }
